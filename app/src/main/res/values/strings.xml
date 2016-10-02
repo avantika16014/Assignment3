@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="action_settings">Do you like it? :)</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="NAME">APP_NAME</string>
+    <string name="ROLL_NO">APP_ROLL_NO</string>
+    <string name="CUR_SEM">APP_CUR_SEM</string>
+</resources>
